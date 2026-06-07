@@ -17,3 +17,5 @@ Following the Full-Stack AI Developer Roadmap - 30-35 weeks
 - [ ] Phase 7 — LangChain/LangGraph
 - [ ] Phase 8 — AI Study Buddy
 - [ ] Phase 9 — AWS Deployment
+
+**Bắt đầu:** Tháng 6/2025
